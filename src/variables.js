@@ -1,0 +1,9 @@
+//API a la que le pego: 
+export const url_produccion = 'http://localhost:5000'
+//export const url_produccion = 'https://obscure-caverns-72816.herokuapp.com'
+
+//Token por ahora fijo
+export const Token = 'Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlBRSk1QZ2hWWkVDc1FncnR0OEdpcCJ9.eyJpc3MiOiJodHRwczovL2Rldi15eDZmYmhhdy51cy5hdXRoMC5jb20vIiwic3ViIjoiOU04dm52WU93YXFDY1BJbjVKdXZPQ1lUOUhJOWdjSVNAY2xpZW50cyIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6MzAwMCIsImlhdCI6MTY1NDY5MTAwNywiZXhwIjoxNjU3MjgzMDA3LCJhenAiOiI5TTh2bnZZT3dhcUNjUEluNUp1dk9DWVQ5SEk5Z2NJUyIsImd0eSI6ImNsaWVudC1jcmVkZW50aWFscyJ9.YcKQGkwLPIG_SjMsmnuYbLy6uDh_ExkeI5qbJbksE-jc4XxjGLY8NcmOIN0BtJTSAp33b5aCEBbQlvp6FWzQttrCqY2anrlIuxuS8WMZIHW8ag6ViBFE11EfECl7_Y5bMJH3KbOd4pSM2F9LVzfQ_-968rUHics-8Spro6QhNJUbWYWKRINCSYtIDMj6rapWWUgmrgLm7zsDCblgdSreu91GA6OxMlMZfEeXeOzUmqSoTNxbDiI9n3fxPx8oDoe9qKZo3kLkAaQnZchyKbrKAYbDebb3SXnMXObCp6xf-SSLMo9p1IAJ9DinYEoZyqx_lHaVK1XO9ArgNQxwFO-rpg'
+
+//id de usuario, por ahora fijo.
+export const user = '5'

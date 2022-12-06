@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 1e663d287a2587b6d2fb4d98442206561e1bf7e9 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1653422309 -0300	clone: from https://github.com/iaw-2022/LuchoQuiru-js.git
+1e663d287a2587b6d2fb4d98442206561e1bf7e9 1e663d287a2587b6d2fb4d98442206561e1bf7e9 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1653422320 -0300	checkout: moving from main to setup-react
+1e663d287a2587b6d2fb4d98442206561e1bf7e9 04395c7204105f31e088589cdfbe9f34b07864bd LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1653422814 -0300	commit: commit del setup de laravel
+04395c7204105f31e088589cdfbe9f34b07864bd dc464d70ea8eaa442dc08544fa0e3bc1641e20ca LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1653656683 -0300	commit: avances en ofertas y productos
+dc464d70ea8eaa442dc08544fa0e3bc1641e20ca 2aefd227c73f1708ec46dbf36fedba2f1a67fa11 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654098203 -0300	commit: algun fix en useState y useEffect
+2aefd227c73f1708ec46dbf36fedba2f1a67fa11 3349bcf42b6cdb0244607166116c7f4702807d79 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654206024 -0300	commit: avances en conexion con api y visualizacion desde react
+3349bcf42b6cdb0244607166116c7f4702807d79 4e7d2ec77426e55c76c56211e584beca6656f365 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654207614 -0300	commit: primer deploy a heroku
+4e7d2ec77426e55c76c56211e584beca6656f365 632fd59611f96caf1bb8ce8106dbd35bf164ba5f LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654208092 -0300	commit: primer deploy a heroku
+632fd59611f96caf1bb8ce8106dbd35bf164ba5f 73d52f0af98d74fad953d8c58bac82283d3e2bd2 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654214053 -0300	commit: Idea general del frontend con el flujo y conexion a la API
+73d52f0af98d74fad953d8c58bac82283d3e2bd2 5f5e76d3264c873730bd9db5964324944992f0ad LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654690663 -0300	commit: deploy a heroku de la entrega pasada con el token actualizado (en teoria dura un mes)
+5f5e76d3264c873730bd9db5964324944992f0ad fc332f4d99f17718305d8c953fed8dd0409d1d1e LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654691450 -0300	commit: intento insertar un token
+fc332f4d99f17718305d8c953fed8dd0409d1d1e 7c436df03c92c2e422bc31be93c8daa77df51822 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654691746 -0300	commit: para heroku
+7c436df03c92c2e422bc31be93c8daa77df51822 e2deeff6076886366b5cd9b629de7a1381f0ff41 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654692184 -0300	commit: actualizar token en heroku
+e2deeff6076886366b5cd9b629de7a1381f0ff41 23c3905614a6151c4e254fd260fc89f9f457b972 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654692228 -0300	commit: actualizar token en heroku
+23c3905614a6151c4e254fd260fc89f9f457b972 0619490ccce63a7d87e0c9b7e29df4503b6b55fd LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654692994 -0300	commit: actualizar token en heroku
+0619490ccce63a7d87e0c9b7e29df4503b6b55fd 7113b75036c63cc6a3e64ffe0ac6a6193d3f313d LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654693229 -0300	commit: actualizar token en heroku
+7113b75036c63cc6a3e64ffe0ac6a6193d3f313d 7113b75036c63cc6a3e64ffe0ac6a6193d3f313d LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654693721 -0300	checkout: moving from setup-react to react-opcionales
+7113b75036c63cc6a3e64ffe0ac6a6193d3f313d 281a383b0095407b78c52c79031d95c85e86e501 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654697443 -0300	commit: avances en auth0
+281a383b0095407b78c52c79031d95c85e86e501 21f60a2d4bfd2ec9144a760752f6309570476cf6 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1654697548 -0300	commit: avances en auth0
+21f60a2d4bfd2ec9144a760752f6309570476cf6 c00d336cd17afb212be2700bdc0e4a27821e8b5d LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1655301667 -0300	commit: avances en auth0 y responsive
+c00d336cd17afb212be2700bdc0e4a27821e8b5d 8740a3a9fcf71ece57c73d675de821b8ed304c0b LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1655332161 -0300	commit: avances en opcionales
+8740a3a9fcf71ece57c73d675de821b8ed304c0b f77af3aa2bd7cd788df6318056a75a13a0fd4e0f LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1655336066 -0300	commit: fix nuevo usuario (id user)
+f77af3aa2bd7cd788df6318056a75a13a0fd4e0f 77bd9a7713dc6b7bd59a6f394672e025665042cc LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1655336215 -0300	commit: fix nuevo usuario (id user)
+77bd9a7713dc6b7bd59a6f394672e025665042cc 07c34d93e71a5eca3bf700a878f4c50b09bf549b LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1655560871 -0300	commit: agrego spinner a oferta
+07c34d93e71a5eca3bf700a878f4c50b09bf549b bee0223c0fcf0ed8b7b80cdb89e1ab50558b8b61 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1656011558 -0300	commit: imagenes agregadas a la tabla de productos y al carrousel de ofertas
+bee0223c0fcf0ed8b7b80cdb89e1ab50558b8b61 2387fdd3e8a8f2848c48b6ae1da0c77ac1e8c09a LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1656604645 -0300	commit: commit para hacer el PR con defensa-react
+2387fdd3e8a8f2848c48b6ae1da0c77ac1e8c09a 8cf98dc68fecf85f173fc162f1cb6358b631c710 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1656604746 -0300	commit: commit para PR defensa-react
+8cf98dc68fecf85f173fc162f1cb6358b631c710 42ee6a4c50ad0ef81a77807ba4e1af91764a3a39 LuchoQuiru <42559301+LuchoQuiru@users.noreply.github.com> 1667507444 -0300	commit: permite la instalacion de la app

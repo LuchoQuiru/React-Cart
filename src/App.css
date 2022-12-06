@@ -1,0 +1,78 @@
+
+.navBarStyle{
+    position: relative;
+    background-color: indianred;
+}
+
+.producto-css {
+    position: absolute;
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 25%;
+}
+
+.ofertas-css{
+    color: #73AD21;
+    font-style: italic;
+    margin: auto;
+    
+}
+
+.contenedor1{
+    background-color: ghostwhite;
+    text-align: center;
+    color: #73AD21;
+    font-style: italic;
+    margin: auto;
+}
+
+.contenedor2{
+    text-align: center;
+    margin: auto;
+}
+
+.log-alert {
+    font-family: arial;
+    font-size: 24px;
+    margin-left: 35%;
+    margin-top: 5%;
+    width: 350px;
+    height: 200px;
+    outline: dashed 1px black;
+  }
+
+
+.font1{
+    align-content: center;
+    font-family: Georgia, serif;
+    font-size: 60px;
+    color: white;
+}
+.font2{
+    align-content: center;
+    font: Verdana;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.topCenter{
+    position: relative;
+    top: 1px;
+    border: 3px solid #73AD21;
+    border: 2px solid lightcyan;    
+}
+
+/* Carrousel */
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: maroon;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: maroon;
+}
+
