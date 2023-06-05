@@ -17,4 +17,5 @@ ReactDOM.render(
         </Auth0Provider>,
     </React.StrictMode>,
     document.getElementById('root')
+    
 )
